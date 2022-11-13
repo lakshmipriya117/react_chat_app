@@ -1,5 +1,6 @@
 import React from 'react';
 //import Footer from './Footer';
+//front page
 
 const style={
     div: `w-full text-xl p-3 bg-blue-900 text-white outline-none border-none`,
