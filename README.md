@@ -1,4 +1,5 @@
 A REACT-FIREBASE chat application which helps to send messages to each other from different accounts.<BR/>
+FIREBASE HOSTING: <BR/>https://chat-app-d7a7f.web.app<BR>
 <BR/>
 <EM>FEATURES<BR/><EM/>
 #ALLOWS TO LOGIN THORUGH GOOGLE ACCOUNT<BR/>
